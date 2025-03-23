@@ -1,6 +1,6 @@
 # curso-vue
 
-This template should help get you started developing with Vue 3 in Vite.
+This repository aims to practice and improve with the Vue framework.
 
 ## Recommended IDE Setup
 
